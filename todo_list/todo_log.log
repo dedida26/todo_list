@@ -1,0 +1,201 @@
+19-11-2024 09:39:05 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:39:20 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:39:24 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/tasks/ HTTP/1.1" 200 13865
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+19-11-2024 09:39:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+19-11-2024 09:39:26 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/logout/?next=/api/v3/tasks/ HTTP/1.1" 302 0
+19-11-2024 09:39:27 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/tasks/ HTTP/1.1" 200 6126
+19-11-2024 09:39:28 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/todo-auth/login/?next=/api/v3/tasks/ HTTP/1.1" 200 2749
+19-11-2024 09:39:35 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/login/ HTTP/1.1" 302 0
+19-11-2024 09:39:35 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/tasks/ HTTP/1.1" 200 13752
+19-11-2024 09:41:55 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/apps.py changed, reloading.
+19-11-2024 09:41:56 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:42:38 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/apps.py changed, reloading.
+19-11-2024 09:42:39 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:42:40 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/logout/?next=/api/v3/tasks/ HTTP/1.1" 302 0
+19-11-2024 09:42:40 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/tasks/ HTTP/1.1" 200 6126
+19-11-2024 09:43:37 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:43:39 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/tasks/ HTTP/1.1" 200 6126
+19-11-2024 09:43:40 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/todo-auth/login/?next=/api/v3/tasks/ HTTP/1.1" 200 2749
+19-11-2024 09:43:45 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/login/ HTTP/1.1" 302 0
+19-11-2024 09:43:45 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/tasks/ HTTP/1.1" 200 13752
+19-11-2024 09:44:41 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/folders/ HTTP/1.1" 200 10762
+19-11-2024 09:46:16 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/apps.py changed, reloading.
+19-11-2024 09:46:17 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:46:19 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/logout/?next=/api/v3/folders/ HTTP/1.1" 302 0
+19-11-2024 09:46:19 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/folders/ HTTP/1.1" 200 5722
+19-11-2024 09:46:34 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/todo-auth/login/?next=/api/v3/folders/ HTTP/1.1" 200 2751
+19-11-2024 09:46:44 [ERROR] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/log.py:248 Internal Server Error: /api/v3/todo-auth/login/
+Traceback (most recent call last):
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/views/generic/edit.py", line 151, in post
+    return self.form_valid(form)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/contrib/auth/views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/contrib/auth/__init__.py", line 152, in login
+    user_logged_in.send(sender=user.__class__, request=request, user=user)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/dispatch/dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py", line 15, in log_login
+    time = timezone.now()  # Используйте timezone.now() для учета часового пояса
+AttributeError: 'int' object has no attribute 'now'
+19-11-2024 09:46:44 [ERROR] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/login/ HTTP/1.1" 500 141628
+19-11-2024 09:47:52 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py changed, reloading.
+19-11-2024 09:47:53 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:48:17 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py changed, reloading.
+19-11-2024 09:48:17 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:48:34 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/todo-auth/login/ HTTP/1.1" 200 2735
+19-11-2024 09:48:41 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:24 Пользователь 2 (user1) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Время: 2024-11-19 06:48:41.576140+00:00
+
+19-11-2024 09:48:41 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/login/ HTTP/1.1" 302 0
+19-11-2024 09:48:41 [WARNING] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/log.py:248 Not Found: /accounts/profile/
+19-11-2024 09:48:41 [WARNING] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /accounts/profile/ HTTP/1.1" 404 3229
+19-11-2024 09:48:51 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/folders/ HTTP/1.1" 200 10762
+19-11-2024 09:53:45 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo_list/settings.py changed, reloading.
+19-11-2024 09:53:46 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:58:13 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py changed, reloading.
+19-11-2024 09:58:14 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:59:00 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo_list/settings.py changed, reloading.
+19-11-2024 09:59:01 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:668 Watching for file changes with StatReloader
+19-11-2024 09:59:06 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "POST /api/v3/todo-auth/logout/?next=/api/v3/folders/ HTTP/1.1" 302 0
+19-11-2024 09:59:07 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/core/servers/basehttp.py:213 "GET /api/v3/folders/ HTTP/1.1" 200 5722
+19-11-2024 09:59:55 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/venv/lib/python3.10/site-packages/django/utils/autoreload.py:266 /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo_list/settings.py changed, reloading.
+19-11-2024 10:00:07 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:25 Пользователь 2 (user1) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Время: 2024-11-19 07:00:07.967094+00:00
+
+19-11-2024 10:00:45 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:26 Пользователь 1 (admin) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Время: 2024-11-19 07:00:45.963819+00:00
+
+19-11-2024 10:01:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:26 
+Пользователь 1 (admin) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Время: 2024-11-19 07:01:25.185680+00:00
+
+19-11-2024 14:23:36 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 1 (admin): READ folder None at 2024-11-19T11:23:36.367673+00:00
+19-11-2024 14:23:39 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User None (): READ folder None at 2024-11-19T11:23:39.269567+00:00
+19-11-2024 14:24:21 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:26 
+Пользователь - 2 (user1) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Время: 2024-11-19 11:24:21.429049+00:00
+
+19-11-2024 14:24:21 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:24:21.481904+00:00
+19-11-2024 14:24:41 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:24:41.618688+00:00
+19-11-2024 14:24:43 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:24:43.111047+00:00
+19-11-2024 14:24:56 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:24:56.052299+00:00
+19-11-2024 14:24:56 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 3 at 2024-11-19T11:24:56.351863+00:00
+19-11-2024 14:25:05 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 3 at 2024-11-19T11:25:05.583853+00:00
+19-11-2024 14:25:06 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 5 at 2024-11-19T11:25:06.275543+00:00
+19-11-2024 14:25:16 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 5 at 2024-11-19T11:25:16.977668+00:00
+19-11-2024 14:25:18 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 8 at 2024-11-19T11:25:18.710430+00:00
+19-11-2024 14:32:37 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 3 at 2024-11-19T11:32:37.352427+00:00
+19-11-2024 14:32:44 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 3 at 2024-11-19T11:32:44.946500+00:00
+19-11-2024 14:32:45 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 5 at 2024-11-19T11:32:45.474168+00:00
+19-11-2024 14:32:50 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 5 at 2024-11-19T11:32:50.867580+00:00
+19-11-2024 14:32:52 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 8 at 2024-11-19T11:32:52.017192+00:00
+19-11-2024 14:33:38 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User None (): READ folder None at 2024-11-19T11:33:38.407457+00:00
+19-11-2024 14:33:53 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:26 
+Пользователь - 1 (admin) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+Время: 2024-11-19 11:33:53.217979+00:00
+
+19-11-2024 14:33:53 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 1 (admin): READ folder None at 2024-11-19T11:33:53.375919+00:00
+19-11-2024 14:34:25 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 1 (admin): READ folder 3 at 2024-11-19T11:34:25.941766+00:00
+19-11-2024 14:34:33 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User None (): READ folder 3 at 2024-11-19T11:34:33.808536+00:00
+19-11-2024 14:34:57 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User None (): READ folder None at 2024-11-19T11:34:57.285314+00:00
+19-11-2024 14:37:33 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 8 at 2024-11-19T11:37:33.325177+00:00
+19-11-2024 14:37:41 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:12 User 3 (user2): UPDATED Folder 8 at 2024-11-19T11:37:41.577425+00:00
+19-11-2024 14:37:41 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 8 at 2024-11-19T11:37:41.580864+00:00
+19-11-2024 14:37:49 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:37:49.592728+00:00
+19-11-2024 14:37:50 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:37:50.942012+00:00
+19-11-2024 14:38:27 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:12 User 2 (user1): CREATED Folder 16 at 2024-11-19T11:38:27.023993+00:00
+19-11-2024 14:38:41 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder 16 at 2024-11-19T11:38:41.843960+00:00
+19-11-2024 14:38:44 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:12 User 2 (user1): UPDATED Folder 16 at 2024-11-19T11:38:44.511387+00:00
+19-11-2024 14:38:52 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:38:52.827746+00:00
+19-11-2024 14:38:55 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:38:55.248194+00:00
+19-11-2024 14:39:04 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:26 
+Пользователь - 1 (admin) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Время: 2024-11-19 11:39:04.274580+00:00
+
+19-11-2024 14:39:14 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 1 (admin): READ folder None at 2024-11-19T11:39:14.997182+00:00
+19-11-2024 14:39:16 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User None (): READ folder None at 2024-11-19T11:39:16.577525+00:00
+19-11-2024 14:39:22 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/auth_log.py:26 
+Пользователь - 2 (user1) вошел в систему.
+IP-адрес: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Время: 2024-11-19 11:39:22.066033+00:00
+
+19-11-2024 14:39:22 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ folder None at 2024-11-19T11:39:22.127943+00:00
+19-11-2024 14:39:28 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ page None at 2024-11-19T11:39:28.674303+00:00
+19-11-2024 14:39:55 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ page None at 2024-11-19T11:39:55.311743+00:00
+19-11-2024 14:40:07 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ page None at 2024-11-19T11:40:07.101730+00:00
+19-11-2024 14:40:08 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ page 6 at 2024-11-19T11:40:08.084276+00:00
+19-11-2024 14:40:27 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:12 User 3 (user2): UPDATED Page 6 at 2024-11-19T11:40:27.006208+00:00
+19-11-2024 14:40:27 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ page 6 at 2024-11-19T11:40:27.011572+00:00
+19-11-2024 14:40:35 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ page None at 2024-11-19T11:40:35.450496+00:00
+19-11-2024 14:41:42 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:12 User 2 (user1): CREATED Page 13 at 2024-11-19T11:41:42.593552+00:00
+19-11-2024 14:41:56 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ page 13 at 2024-11-19T11:41:56.598482+00:00
+19-11-2024 14:41:59 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:12 User 2 (user1): UPDATED Page 13 at 2024-11-19T11:41:59.001430+00:00
+19-11-2024 14:43:26 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ task None at 2024-11-19T11:43:26.940014+00:00
+19-11-2024 14:43:28 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:18 User 2 (user1): READ task None at 2024-11-19T11:43:28.749670+00:00
+19-11-2024 14:44:22 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:12 User 2 (user1): CREATED Task 20 at 2024-11-19T11:44:22.975387+00:00
+24-11-2024 08:59:34 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User 2 (user1): READ task None at 2024-11-24T05:59:34.658842+00:00
+24-11-2024 08:59:37 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User 2 (user1): READ task None at 2024-11-24T05:59:37.725891+00:00
+24-11-2024 08:59:38 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User 2 (user1): READ task None at 2024-11-24T05:59:38.591280+00:00
+24-11-2024 08:59:39 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User 2 (user1): READ task None at 2024-11-24T05:59:39.273141+00:00
+24-11-2024 08:59:40 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User 2 (user1): READ task None at 2024-11-24T05:59:40.416918+00:00
+24-11-2024 08:59:57 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User 2 (user1): READ task None at 2024-11-24T05:59:57.585009+00:00
+24-11-2024 09:01:03 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ task None at 2024-11-24T06:01:03.767693+00:00
+24-11-2024 09:02:20 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ task None at 2024-11-24T06:02:20.119278+00:00
+24-11-2024 09:03:26 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ task None at 2024-11-24T06:03:26.441922+00:00
+24-11-2024 11:30:29 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ folder None at 2024-11-24T08:30:29.483324+00:00
+24-11-2024 11:30:37 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ page None at 2024-11-24T08:30:37.918436+00:00
+24-11-2024 11:30:47 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ task None at 2024-11-24T08:30:47.323913+00:00
+24-11-2024 22:56:13 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ folder None at 2024-11-24T19:56:13.043574+00:00
+24-11-2024 22:56:20 [INFO] /Users/dedida/Documents/Python/project_dir/test MiddleP/todo_list/todo/log_utils.py:20 User None (): READ task None at 2024-11-24T19:56:20.362754+00:00
