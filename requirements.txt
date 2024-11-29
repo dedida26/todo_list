@@ -1,0 +1,39 @@
+# Веб-фреймворк:
+Django==5.1.3 # https://docs.djangoproject.com/en/5.1/
+
+# REST фреймворк:
+djangorestframework==3.15.2 # https://www.django-rest-framework.org/
+djangorestframework-simplejwt==5.3.1 # https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
+djoser==2.3.1 # https://djoser.readthedocs.io/en/latest/
+
+# Аутентификация и авторизация:
+PyJWT==2.9.0 # https://pypi.org/project/PyJWT/
+requests-oauthlib==2.0.0 # https://pypi.org/project/requests-oauthlib/
+oauthlib==3.2.2 # https://pypi.org/project/oauthlib/
+social-auth-app-django==5.4.2 # https://pypi.org/project/social-auth-app-django/
+social-auth-core==4.5.4 # https://pypi.org/project/social-auth-core/
+python3-openid==3.2.0 # https://pypi.org/project/python3-openid/
+simplejwt==2.0.1 # (Возможно дубликат, проверьте requirements.txt)
+
+# База данных:
+psycopg2-binary==2.9.10 # https://pypi.org/project/psycopg2-binary/
+
+# Обработка переменных окружения:
+django-environ==0.11.2
+environ==1.0 # https://pypi.org/project/environ/
+#python-dotenv==1.0.1 # https://pypi.org/project/python-dotenv/
+
+# Другие библиотеки:
+asgiref==3.8.1 # https://pypi.org/project/asgiref/
+certifi==2024.8.30 # https://pypi.org/project/certifi/
+cffi==1.17.1 # https://pypi.org/project/cffi/
+charset-normalizer==3.4.0 # https://pypi.org/project/charset-normalizer/
+cryptography==43.0.3 # https://pypi.org/project/cryptography/
+defusedxml==0.8.0rc2 # https://pypi.org/project/defusedxml/
+idna==3.10 # https://pypi.org/project/idna/
+requests==2.32.3 # https://pypi.org/project/requests/
+sqlparse==0.5.1 # https://pypi.org/project/sqlparse/
+urllib3==2.2.3 # https://pypi.org/project/urllib3/
+pycparser==2.22 # https://pypi.org/project/pycparser/
+typing==3.7.4.3 # https://pypi.org/project/typing/
+typing_extensions==4.12.2 # https://pypi.org/project/typing-extensions/
