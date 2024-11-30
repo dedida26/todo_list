@@ -6,7 +6,7 @@ WORKDIR /app
 COPY ./requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY ./config ./config/
+COPY todo_list ./todo_list/
 COPY ./todo/ ./todo/
 COPY ./manage.py ./
 
