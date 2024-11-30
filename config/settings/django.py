@@ -24,6 +24,7 @@ PROJECT_APPS = [
 THIRD_PARTY_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
+    'rest_framework_simplejwt',
     'djoser',
 ]
 
@@ -65,7 +66,7 @@ DATABASES = {
         'NAME': env.str('DB_NAME'),
         'USER': env.str('DB_USER'),
         'PASSWORD': env.str('DB_PASSWORD'),
-        'HOST': 'db',
+        'HOST': env.str('DB_HOST'),
         'PORT': env.int('DB_PORT'),
     }
 }
