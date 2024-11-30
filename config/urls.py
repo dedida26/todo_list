@@ -16,6 +16,8 @@ Including another URLconf
 """
 from django.urls import include, path, re_path
 from rest_framework import routers
+from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView, TokenVerifyView
+
 from todo import views
 from django.contrib import admin
 from todo.views import FolderPermissionViewSet, PagePermissionViewSet, TaskPermissionViewSet
@@ -36,4 +38,7 @@ urlpatterns = [
     re_path(r'^auth/', include('djoser.urls.authtoken')),
     path('api/v3/pages/<int:pk>/', views.PageViewSet.as_view({'get': 'retrieve'}), name='page-detail'),
     path('api/v3/folders/<int:pk>/', views.FolderViewSet.as_view({'get': 'retrieve'}), name='folder-detail'),
+    path('api/v3/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),
+    path('api/v3/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
+    path('api/v3/token/verify/', TokenVerifyView.as_view(), name='token_verify'),
 ]
